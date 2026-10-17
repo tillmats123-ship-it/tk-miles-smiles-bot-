@@ -1,0 +1,17 @@
+{
+  "name": "tk-miles-smiles-bot",
+  "version": "1.0.0",
+  "description": "TK Miles & Smiles Discord Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "pg": "^8.16.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
